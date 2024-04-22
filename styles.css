@@ -6,6 +6,7 @@ h1{
 }
 .book-library{
 	background-color:#ffffff;
+	height:10px;
 }
 .book p:first-child{
 	color:#777777;
