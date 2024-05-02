@@ -23,9 +23,12 @@ body {
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
 }
-
+.other{
+	background-color:#f8f8f8;
+}
 .book-details {
   padding: 15px;
+	color:white;
 	background-color: rgb(46, 204, 113);
 }
 
